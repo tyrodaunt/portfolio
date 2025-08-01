@@ -14,7 +14,7 @@ This is a fully responsive single-page personal portfolio built using HTML5, CSS
 ├── index.html         # Main HTML document
 ├── style.css          # Stylesheet for layout, theme, responsiveness
 ├── main.js            # JavaScript for theme toggle and interactivity
-└── assets             # Images, icons, fonts, etc.
+└── assets             # Images, icons, and fonts.
 
 
 🎨 Features
