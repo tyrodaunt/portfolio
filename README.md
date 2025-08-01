@@ -9,15 +9,13 @@ Welcome to my personal front-end developer portfolio! This site serves as a show
 
 This is a fully responsive single-page personal portfolio built using HTML5, CSS3, and vanilla JavaScript. It demonstrates clean, semantic structure, a theme toggle feature, and multiple content sections aimed at presenting my professional profile.
 
-🚀 Live Demo
-
-👉 Click here to view the live site
-
 📁 Project Structure
+
 ├── index.html         # Main HTML document
 ├── style.css          # Stylesheet for layout, theme, responsiveness
 ├── main.js            # JavaScript for theme toggle and interactivity
-└── assets/            # Images, icons, fonts, etc.
+└── assets             # Images, icons, fonts, etc.
+
 
 🎨 Features
 	•	Responsive layout using pure CSS (no frameworks)
@@ -46,20 +44,24 @@ I’m currently exploring and plan to incorporate:
 	•	Figma: To independently handle wireframes and UI/UX design.
 	•	Solana Blockchain: To experiment with decentralized apps.
 
+
 📸 Sample Project Highlight
 
 C H A R I T O K
 
 A creative web page for a meme coin project with real-world charitable goals. Built with responsiveness and storytelling in mind.
 	•	🔗 View Code
+                    https://ashtagmujib.github.io/pilot-test
+		    
 	•	🌐 Live Demo
+                    https://github.com/ashtagmujib/pilot-test
+                       
 
 📬 Contact
 
 Want to collaborate, hire me, or just say hello? Reach out:
 	•	Gmail: mujibajimoh@gmail.com
-	•	Twitter/X: @Ashtagmujib
-	•	LinkedIn: View Profile
+	•	Twitter/X: @dealwithzephyr
 
 ⸻
 
